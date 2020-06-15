@@ -1,3 +1,3 @@
 Recent Blog Posts:
 <!--START_SECTION:feed-->
-<!--END_SECTION:example-->
+<!--END_SECTION:feed-->
