@@ -4,7 +4,7 @@ a tiny bit about me personally:
 
 - my pronouns are he/they
 - i [tweet](https://twitter.com/bitandbang) way too damn much
-- i live in brooklyn
+- i live in manhattan
 - i play vidya games way too damn much
 - i'm otherwise very online to an extreme
 
