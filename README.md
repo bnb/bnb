@@ -20,7 +20,7 @@ a tiny bit about me at work:
 
 - i work as a senior cloud developer advocate at microsoft under azure
 - i specifically work in open-source engineering, focusing the vast majority of my time on open-source
-- most of the tiny bit about me on github i'm privlidged enough to be able to focus on during working hours
+- most of the tiny bit about me on github i'm privileged enough to be able to focus on during working hours
 
 you can find some of my more recent blog posts online:
 
