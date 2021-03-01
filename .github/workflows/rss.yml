@@ -13,3 +13,4 @@ jobs:
         with:
           feed-url: https://dev.to/feed/bnb
           readme-section: feed
+          branch: main
