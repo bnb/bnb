@@ -25,11 +25,11 @@ a tiny bit about me at work:
 you can find some of my more recent blog posts online:
 
 <!--START_SECTION:feed-->
+* [Conditional Exports: Supporting both import and require()](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;conditional-exports-supporting-both-import-and-require-3ihg)
 * [Implicit ESM in Node.js with &quot;type&quot;: &quot;module&quot;](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;implicit-esm-in-node-js-with-type-module-np)
 * [Explicit ESM in Node.js with .mjs](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;explicit-esm-in-node-js-with-mjs-3ooh)
 * [The New npm diff Command](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;the-new-npm-diff-command-k0m)
 * [Markdown Link Checking in GitHub with Actions](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;markdown-link-checking-in-github-with-actions-5dp0)
-* [Securely Automating npm publish with the New npm Automation Tokens](https:&#x2F;&#x2F;dev.to&#x2F;bnb&#x2F;securely-automating-npm-publish-with-the-new-npm-automation-tokens-oei)
 <!--END_SECTION:feed-->
 
 finally,
