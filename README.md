@@ -2,7 +2,7 @@ heya, i'm tierney.
 
 a tiny bit about me personally:
 
-- my pronouns are they/he
+- my pronouns are they/them
 - i [tweet](https://twitter.com/bitandbang) way too damn much
 - i live in new york city
 - i play vidya games way too damn much
