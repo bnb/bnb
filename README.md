@@ -14,13 +14,11 @@ a tiny bit about me on github:
 - i do some work in the [electron](https://github.com/electron) project
 - i do some work in [tc39](https://github.com/tc39), though mostly try to focus my efforts outside of specific proposals
 - i do some work on the [openjs-foundation](https://github.com/openjs-foundation) as a regular member of the cross-project council
-- i do as much work as i can publicly in [various](https://github.com/microsoftdocs) [offical](https://github.com/azure) [microsoft](https://github.com/microsoft) orgs as a part of my work
 
 a tiny bit about me at work:
 
-- i work as a senior cloud developer advocate at microsoft under azure
-- i specifically work in open-source engineering, focusing the vast majority of my time on open-source
-- most of the tiny bit about me on github i'm privileged enough to be able to focus on during working hours
+- i work as a staff developer advocate at [twilio](https://github.com/twilio)
+- i spend my time between working with product teams to improve their DX, helping coordinate various developer-facing parts of the company, and churning out open source
 
 you can find some of my more recent blog posts online:
 
