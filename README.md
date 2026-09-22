@@ -3,22 +3,21 @@ heya, i'm tierney.
 a tiny bit about me personally:
 
 - my pronouns are they/them
-- i [tweet](https://twitter.com/bitandbang) way too damn much
 - i live in new york city
-- i play vidya games way too damn much
+- i dj, mostly preferring dubstep and bass music
 - i'm otherwise very online to an extreme
 
 a tiny bit about me on github:
 
 - i work on various things in the [nodejs](https://github.com/nodejs) project
 - i do some work in the [electron](https://github.com/electron) project
-- i do some work in [tc39](https://github.com/tc39), though mostly try to focus my efforts outside of specific proposals
-- i do some work on the [openjs-foundation](https://github.com/openjs-foundation) as a regular member of the cross-project council
+- i used to do some work on the [openjs-foundation](https://github.com/openjs-foundation) as a regular member of the cross-project council
+- i used to do some work in [tc39](https://github.com/tc39), though mostly try to focus my efforts outside of specific proposals
 
 a tiny bit about me at work:
 
-- i work as a staff developer advocate at [twilio](https://github.com/twilio)
-- i spend my time between working with product teams to improve their DX, helping coordinate various developer-facing parts of the company, and churning out open source
+- i've been a developer advocate at twilio, microsoft, and nodesource
+- i spend my time between working with product teams to improve open source projects' DX, helping coordinate various developer-facing parts of the company, and churning out even more open source
 
 you can find some of my more recent blog posts online:
 
@@ -32,4 +31,4 @@ you can find some of my more recent blog posts online:
 
 finally,
 
-[Black Lives Matter](https://nodejs.org/en/black-lives-matter).
+[Black Lives Matter](https://nodejs.org/en/black-lives-matter) and Free Palestine
